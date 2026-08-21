@@ -1,0 +1,3 @@
+# Wolfie.fx
+An Async, AI scored market signal pipeline - a live websocket data &amp; social sentiment, deployed on an Azure VM for real time market analysis and trade signals.
+Real time market signal pipeline built to move fast. Live trade data streams in over websockets, gets scored for sentiment alongside social signals from Reddit/StockTwits, and runs continuously on an Azure VM as a background service, Jupyter is used separately for backtesting the signals this pipeline generates. Built as a hands on project to apply async Python, cloud deployment and AI assisted signal scoring in one system.
